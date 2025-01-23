@@ -3,7 +3,7 @@
 </script>
 
 <div style={"position: relative;"}>
-  <button onclick={() => {  open = !open }}>Dropdown</button>
+  <button onclick={() => {  open = !open }} onfocusout={() => { open = false}}>Dropdown</button>
   <div style={`display: ${open ? "block": "none"}; position: absolute; z-index: 1;`}>
 	{@render children()}
   </div>
