@@ -2,3 +2,6 @@
 
 ### Carousel
 - [Flickity v2 · Style](https://flickity.metafizzy.co/style)
+
+### Notes
+- Refer to [dirkarnez/svelte-5-dynamic-global-css](https://github.com/dirkarnez/svelte-5-dynamic-global-css) to make global UI style themable
