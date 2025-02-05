@@ -5,5 +5,8 @@
 - [How To Create a Slideshow](https://www.w3schools.com/howto/howto_js_slideshow.asp)
 - [Pure CSS Carousel](https://codepen.io/ancaspatariu/pen/WpQYOP)
 
+### Hierarchy
+- [Recursive components • Playground • Svelte](https://svelte.dev/playground/recursive-components?version=5.19.7)
+
 ### Notes
 - Refer to [dirkarnez/svelte-5-dynamic-global-css](https://github.com/dirkarnez/svelte-5-dynamic-global-css) to make global UI style themable
