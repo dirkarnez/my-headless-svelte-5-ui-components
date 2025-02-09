@@ -8,5 +8,7 @@
 ### Hierarchy
 - [Recursive components • Playground • Svelte](https://svelte.dev/playground/recursive-components?version=5.19.7)
 
+### scroller
+- [sveltejs/svelte-scroller: A <Scroller> component for Svelte apps](https://github.com/sveltejs/svelte-scroller)
 ### Notes
 - Refer to [dirkarnez/svelte-5-dynamic-global-css](https://github.com/dirkarnez/svelte-5-dynamic-global-css) to make global UI style themable
